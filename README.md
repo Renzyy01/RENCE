@@ -24,8 +24,6 @@ I am a Electronics Engineering Student in Fullbright College And I am currently 
   
 # 🛠 Projects
 
-## in first semester we made a simple project which is saltwater energy.
-
 ## 🌱 IDIYANALE NPK Monitoring System
 During the second semester, my first project was a group project supervised by Kodic Guzman, in which we developed a system using C++ and the Arduino Uno. 
 
