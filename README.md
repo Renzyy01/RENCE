@@ -9,11 +9,11 @@
 ---
 
 
-# 🙇‍♀️ ABOUT ME
+# 🙇‍♀️ MORE ABOUT ME:
 
 I am a Electronics Engineering Student in Fullbright College And I am currently a 1st Year Student
 
-# 📚 Currently Studying
+# 📚 CurrenT Focus:
 - Arduino Programming
 - C++
 - PCB Design
